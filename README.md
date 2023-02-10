@@ -5,7 +5,7 @@
 3. npm run migrate up
 4. npm run start:dev
 
-ALL API (Domain: http://localhost:4000):
+ALL API (Domain: http://localhost:process.env.PORT):
 
 1. (/api/v1/football/recordgame) POST
 2. (/api/v1/football/leaguestanding) GET
